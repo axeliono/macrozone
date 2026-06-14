@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "macrozone",
-    "slug": "macrozone",
+    "slug": "test-first-expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e944b94d-a151-4cbb-8749-c2f3240e6915"
+      }
+    },
+    "owner": "axeliono"
   }
 }
